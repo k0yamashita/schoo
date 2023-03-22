@@ -1,2 +1,2 @@
 pupupu.txt
-hogeho
+hogeho　hogehoge
